@@ -2,4 +2,4 @@
 
 website link
 
-https://doge-capital.netlify.app
+https://dogcapital.netlify.app
